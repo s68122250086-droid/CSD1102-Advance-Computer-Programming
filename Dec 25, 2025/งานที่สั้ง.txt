@@ -1,0 +1,8 @@
+1. สร้าง Constructor ของทุก class อย่างน้อย 2 Constructors 
+2. กำหนด private instance + public static variable 
+3. สร้าง method get/set ของทุกๆ attributes 
+4. สร้าง objects ตาม จำนวน constructors ของ class 
+5. สร้าง ตารางแสดงข้อมูล attribute + methods  
+6. เขียนอธิบาย ว่าใครทำอะไรในกลุ่ม 
+*** งานต้องเหมือนกัน ของสมาชิกในกลุ่ม ***
+วันที่ 8 มกราคม ตรวจ github ทุกคน ว่า upload งาน
