@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<VBox spacing="15"
+      alignment="CENTER"
+      xmlns:fx="http://javafx.com/fxml"
+      fx:controller="ssru.example1.workfx1.MenuController">
+
+    <Label text="Select Program"
+           style="-fx-font-size:20"/>
+
+    <Button text="Hello World"
+            onAction="#openHello"/>
+
+    <Button text="Login Form"
+            onAction="#openLogin"/>
+
+    <Button text="Calculator"
+            onAction="#openCalc"/>
+
+</VBox>
